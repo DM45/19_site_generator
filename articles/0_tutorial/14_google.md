@@ -12,7 +12,7 @@
 
 Вот где о них можно узнать:
 
-- [Мини-курс Power Searching With Google] (https://coursebuilder.withgoogle.com/sample/course) (en). Да, у Гугла есть
+- [Мини-курс Power Searching With Google](https://coursebuilder.withgoogle.com/sample/course) (en). Да, у Гугла есть
 онлайн-курс про то, как пользоваться Гуглом (даже два курса). Видео-лекции, домашние задания. Всё серьёзно.
 Очень рекомендую: он короткий и очень подробный.
 - [Google Tips & Tricks](https://www.google.com/intl/en_us/insidesearch/tipstricks/all.html) (en).
