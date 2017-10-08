@@ -66,8 +66,6 @@ def create_site():
 
 
 if __name__ == '__main__':
-    create_site()
-    '''
     server = Server()
     server.watch('templates/*.html', create_site)
     articles_data = get_articles_data()
@@ -76,4 +74,3 @@ if __name__ == '__main__':
         filepath = get_filepath(abs_path, article['source'])
         server.watch(filepath, create_site)
     server.serve()
-'''
